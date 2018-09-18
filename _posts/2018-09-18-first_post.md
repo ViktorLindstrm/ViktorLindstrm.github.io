@@ -16,10 +16,11 @@ programming details and overall thinking of all regarding programming an AS/idP
 Some info about my actual project, it is a development because I wanted to get
 a better understanding about OAuth2 and OpenID Connect, and the relation
 between. The programming is done in Erlang, mainly because i think it is fun to
-program, but the scaleability might come in handy later on. The webserver is an
-Erlang webserver called ["Cowboy"](https://github.com/ninenines/cowboy). It
-fits in the overall flow nicely and is mostly used for the API and the very
-minimal webfront to do the login and management.
+program in it, but also the scaleability might come in handy later on. The
+webserver is an Erlang webserver called
+["Cowboy"](https://github.com/ninenines/cowboy). It fits in the overall flow
+nicely and is mostly used for the API and the very minimal webfront to do the
+login and management.
 
 It is not done, so much is still to do, and alot to write about. But it is a
 functioning OAuth2 Authorization Server. That means that it complies (mostly)
