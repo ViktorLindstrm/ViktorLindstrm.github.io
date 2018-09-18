@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Testingy test"
 date: 2014-04-30
 ---
